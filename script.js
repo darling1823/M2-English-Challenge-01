@@ -1,5 +1,5 @@
 let comedy = [{
-    title : 'Red: Crescer é uma fera',
+    title : 'Turning Red',
     director : 'Domee Shi',
     year : 2022,
 },{
@@ -12,11 +12,11 @@ let comedy = [{
     year : 2015,
 }]
 let action = [{
-    title : 'Doutor Estranho no Multiverso da Loucura',
+    title : 'Doctor Strange in the Multiverse of Madness',
     director : 'Sam Reimi',
     year : 2022,
 },{
-    title : 'Onde está Segunda?',
+    title : 'What Happened to Monday',
     director : 'Tommy Wirkola',
     year : 2017,
 },{
@@ -26,11 +26,11 @@ let action = [{
 }
 ]
 let fantasy = [{
-    title : 'A Origem dos Guardiões',
+    title : 'Rise of the Guardians',
     director : 'Peter Ramsey',
     year : 2012,
 },{
-    title : 'A Princesa e o Sapo',
+    title : 'The Princess and the Frog',
     director : 'John Musker, Ron Clements',
     year : 2009,
 },{
